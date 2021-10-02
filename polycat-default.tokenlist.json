@@ -146,6 +146,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://i.imgur.com/8CB7exY.png"
+        },
+        {
+            "name": "IdaMurni",
+            "symbol": "IDA",
+            "address": "0xccae06ec0787c07d7df5a60856c73a113fc7cf9a",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
         }
     ]
 }
